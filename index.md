@@ -9,7 +9,7 @@ body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 .navbar {
    overflow: hidden;
@@ -106,7 +106,7 @@ h3{
   <a href="./blog">Blog</a>
   <a href="./publications">Publications</a>
   <a href="./contact">Contact</a>
-  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a> 
+  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a>
   <a class="active" href="https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=en&authuser=1" style="float:right; "><i class="ai ai-google-scholar-square ai-1"></i></a>  
 
 </div>
@@ -119,11 +119,11 @@ h3{
 <p>
 <img src="images/ben.jpeg" style="float: right;width:10%;margin-top:50px;margin-right:120px;" />
 
-</p> 
+</p>
 
 
 ##Ben Krause
-<p style="margin-right:245px; margin-left:120px;margin-top:20px;" > I am a machine learning PhD student at the University of Edinburgh supervised by <a href="http://homepages.inf.ed.ac.uk/srenals/">Steve Renals</a>  and <a href="http://homepages.inf.ed.ac.uk/imurray2/">Iain Murray</a>. My current research is focused on auto-regressive sequence modelling with recurrent neural networks, applications of which include machine translation, speech recognition, compression, and many more. I am also broadly interested deep learning, reinforcement learning, and neuroscience. </p>
+<p style="margin-right:245px; margin-left:120px;margin-top:20px;" > Welcome to my webpage! I am a deep learning Research Scientist at Salesforce. I research methods to make language models more adaptive and controllable. I did my [PhD](https://era.ed.ac.uk/bitstream/handle/1842/37088/Krause2020.pdf) at the University of Edinburgh supervised by <a href="http://homepages.inf.ed.ac.uk/srenals/">Steve Renals</a>  and <a href="http://homepages.inf.ed.ac.uk/imurray2/">Iain Murray</a>. </p>
 
 <body style = "background-image: url('images/neurons2.jpg');background-repeat: no-repeat; background-position: right 50px ;background-size: 100% 140px;">
 </body>
@@ -133,7 +133,3 @@ h3{
 </body>
 
 -->
-
-
-
-

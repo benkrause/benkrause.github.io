@@ -8,7 +8,7 @@ body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 .navbar {
     overflow: hidden;
@@ -72,7 +72,7 @@ h3{
   <a href="../blog">Blog</a>
   <a href="../publications">Publications</a>
   <a href="../contact">Contact</a>
-  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a> 
+  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a>
   <a class="active" href="https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=en&authuser=1" style="float:right; "><i class="ai ai-google-scholar-square ai-1"></i></a>  
 
 </div>
@@ -85,10 +85,10 @@ h3{
 <p>
 <img src="../images/ben.jpeg" style="float: right;width:20%;margin-top:0px;" />
 
-</p> 
+</p>
 
 
-<p style="margin-right:300px; margin-left:120px" > As an undergraduate in the US, I was a pre-med, neuroimaging researcher. Near the end of my degree, I had a sudden epiphany that I wanted to study deep learning, so I moved to Edinburgh in 2014 and did a master's, starting my PhD the following year. My PhD has mainly focused on auto-regressive sequence modelling and recurrent neural networks. As an aside from my PhD, I also participated in University of Edinburgh's team to build a social bot for the Amazon Alexa prize competition. I am now finishing up the third year of my PhD and aiming to finish soon. My long term goal is to make contributions in AI that advance scientific research. </p> 
+<p style="margin-right:300px; margin-left:120px" > As an undergraduate in the US, I was a pre-med, neuroimaging researcher. Near the end of my degree, I had a sudden epiphany that I wanted to study deep learning, so I moved to Edinburgh in 2014 and did a master's, starting my PhD the following year. My [PhD](https://era.ed.ac.uk/bitstream/handle/1842/37088/Krause2020.pdf) focused on auto-regressive sequence modeling, and my work included [multiplicative LSTM](https://arxiv.org/abs/1609.07959) and [dynamic evaluation](http://proceedings.mlr.press/v80/krause18a/krause18a.pdf). I joined Salesforce Research in Fall 2019 where I have been mainly researching language modeling and generation. My long term goal is to make contributions in AI that advance scientific research. </p>
 
 
 

@@ -8,7 +8,7 @@ body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 .navbar {
     overflow: hidden;
@@ -78,7 +78,7 @@ h4{
   <a href="../blog">Blog</a>
   <a href="../publications">Publications</a>
   <a href="../contact">Contact</a>
-  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a> 
+  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a>
   <a class="active" href="https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=en&authuser=1" style="float:right; "><i class="ai ai-google-scholar-square ai-1"></i></a>  
 
 </div>
@@ -92,9 +92,9 @@ h4{
 <p>
 <img src="chess.jpg" style="float: right;width:20%;margin-top:0px;" />
 
-</p> 
+</p>
 <p style="margin-right:300px; margin-left:120px; margin-top:10px" >
-I've played competitive chess on and off for a good part of my life. I am mostly retired now, but sometimes still play for fun. Here is a <a href="http://www.connectionnewspapers.com/news/2003/apr/23/check-out-the-chess-champs/">funny article</a> about an 11-year old me and my chess team.
+I've played competitive chess on and off for a good part of my life, and achieved the US national master title. I am mostly retired now, but sometimes still play for fun. Here is a <a href="http://www.connectionnewspapers.com/news/2003/apr/23/check-out-the-chess-champs/">funny article</a> about an 11-year old me and my chess team.
 
 </p>
 

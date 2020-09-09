@@ -8,7 +8,7 @@ body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 .navbar {
     overflow: hidden;
@@ -78,7 +78,7 @@ h4{
   <a href="../blog">Blog</a>
   <a href="../publications">Publications</a>
   <a href="../contact">Contact</a>
-  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a> 
+  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a>
   <a class="active" href="https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=en&authuser=1" style="float:right; "><i class="ai ai-google-scholar-square ai-1"></i></a>  
 
 </div>
@@ -98,7 +98,7 @@ h4{
 </p>
 
 <p style="margin-right:495px; margin-left:120px; margin-top:10px" >
-I've recently earned my skydiving license with the British Parachute Association. Skydiving solo is a ton of fun; you can fly with your body at high speeds in any direction. I can sometimes be a bit absent minded, so when I jump out of an airplane everything doesn't always go according to plan. For instance, on my first jump ever, I got lost in the sky and ended up landing in a tree!
+I learned to Skydive in 2018 and have made over 100 jumps. Skydiving solo is a ton of fun; you can fly with your body at high speeds in any direction. I can sometimes be a bit absent minded, so when I jump out of an airplane everything doesn't always go according to plan. For instance, on my first solo jump ever, I got lost in the sky after my parachute opened and I ended up landing in a tree!
 
 </p>
 

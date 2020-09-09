@@ -8,7 +8,7 @@ body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 .navbar {
     overflow: hidden;
@@ -78,7 +78,7 @@ h4{
   <a href="../blog">Blog</a>
   <a href="../publications">Publications</a>
   <a href="../contact">Contact</a>
-  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a> 
+  <a class="active" href="https://github.com/benkrause" style="float:right;"><i class="fa fa-github"></i></a>
   <a class="active" href="https://scholar.google.com/citations?user=ONNif60AAAAJ&hl=en&authuser=1" style="float:right; "><i class="ai ai-google-scholar-square ai-1"></i></a>  
 
 </div>
@@ -91,9 +91,7 @@ h4{
 ##Contact info
 
 <p style="margin-right:300px; margin-left:120px; margin-top:10px" >
-Email: ben.krause@ed.ac.uk
-<br/>
-Office: INF-305
+Email: bkrause@salesforce.com
 </p>
 
 <body style = "background-image: url('../images/neurons2.jpg');background-repeat: no-repeat; background-position: right 50px ;background-size: 100% 140px;">
