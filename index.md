@@ -121,7 +121,6 @@ h3{
 
 </p>
 
-
 ##Ben Krause
 <p style="margin-right:245px; margin-left:120px;margin-top:20px;" > Welcome to my webpage! I am a deep learning Research Scientist at Salesforce. I research methods to make language models more adaptive and controllable. I did my [PhD](https://era.ed.ac.uk/bitstream/handle/1842/37088/Krause2020.pdf) at the University of Edinburgh supervised by <a href="http://homepages.inf.ed.ac.uk/srenals/">Steve Renals</a>  and <a href="http://homepages.inf.ed.ac.uk/imurray2/">Iain Murray</a>. </p>
 
