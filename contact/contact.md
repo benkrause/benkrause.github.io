@@ -91,7 +91,7 @@ h4{
 ##Contact info
 
 <p style="margin-right:300px; margin-left:120px; margin-top:10px" >
-Email: bkrause@salesforce.com
+Email: bkrause@autograms.ai
 </p>
 
 <body style = "background-image: url('../images/neurons2.jpg');background-repeat: no-repeat; background-position: right 50px ;background-size: 100% 140px;">
